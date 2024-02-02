@@ -46,7 +46,7 @@ We do not assume liability for any unauthorized use of the dataset.
 For privacy-related concerns or data removal requests, please contact us at giuseppe.mollica1@studenti.unipg.it
 
 ## Citing:
-**If you use SUPERSLAM3 in an academic work, please cite:**
+**If you use MA-VIED in an academic work, please cite:**
 ```
 @article{mollica2023ma,
   author={Mollica, Giuseppe and Felicioni, Simone and Legittimo, Marco and Meli, Leonardo and Costante, Gabriele and Valigi, Paolo},
