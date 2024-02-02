@@ -49,11 +49,15 @@ For privacy-related concerns or data removal requests, please contact us at gius
 **If you use SUPERSLAM3 in an academic work, please cite:**
 ```
 @article{mollica2023ma,
-  title={Ma-vied: A multisensor automotive visual inertial event dataset},
   author={Mollica, Giuseppe and Felicioni, Simone and Legittimo, Marco and Meli, Leonardo and Costante, Gabriele and Valigi, Paolo},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2023},
-  publisher={IEEE}
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
+  title={MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset}, 
+  year={2024},
+  volume={25},
+  number={1},
+  pages={214-224},
+  keywords={Cameras;Sensors;Wheels;Sensor fusion;Odometry;Standards;Visualization;Visual inertial odometry;event vision;MA-VIED automotive dataset;sensor fusion},
+  doi={10.1109/TITS.2023.3312355}
 }
 ```
 
@@ -197,7 +201,7 @@ The rosbag package facilitates the recording of various topics and messages into
    <tr>
     <td><i>/KIA_SOUL_EV/ART/car_state</i></td>
     <td>roscco_art/Car_State</td>
-    <td> Parsed data from vehicle CAN bus. (section ??? for more details).</td>
+    <td> Parsed data from vehicle CAN bus (for additional information, refer to section 3.1.1.).</td>
   </tr>
  
    <tr>
@@ -382,7 +386,7 @@ This topic encompasses the RAW unparsed data retrieved from the Can vehicle inte
 
 #### 3.1.3 /piksi_ttyUSB/ topic
 
-For Piksi RTK custom messages, please refer to https://github.com/ethz-asl/ethz_piksi_ros.
+Piksi RTK custom messages. For additional information, please refer to https://github.com/ethz-asl/ethz_piksi_ros.
 
 ## 4 Calibration
 
