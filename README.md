@@ -48,7 +48,7 @@ For privacy-related concerns or data removal requests, please contact us at gius
 ## Citing:
 **If you use MA-VIED in an academic work, please cite:**
 ```
-@article{mollica2023ma,
+@article{10254473,
   author={Mollica, Giuseppe and Felicioni, Simone and Legittimo, Marco and Meli, Leonardo and Costante, Gabriele and Valigi, Paolo},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={MA-VIED: A Multisensor Automotive Visual Inertial Event Dataset}, 
