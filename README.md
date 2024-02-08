@@ -584,6 +584,6 @@ This project is a collaborative effort between [ART S.p.A](https://www.artgroup-
 | | Information |
 |:----:|:---------------------|
 | <img src="imgs/art_logo.png" alt="ART S.p.A" width="200"> | **ART S.p.A**<br>Website: [www.artgroup-spa.com](https://www.artgroup-spa.com)<br>Address: Località Pischiello, 20, 06065 Passignano sul Trasimeno PG.|
-| <img src="imgs/unipg_logo.png" alt="University of Perugia" width="250"> | **University of Perugia, Faculty of Engineering**<br>Website: [https://ing.unipg.it/](https://ing.unipg.it/)<br>Address: Address: Via Goffredo Duranti, 93, 06125 Perugia PG |  https://ing.unipg.it/
+| <img src="imgs/unipg_logo.png" alt="University of Perugia" width="250"> | **University of Perugia, Faculty of Engineering**<br>Website: [https://ing.unipg.it/](https://ing.unipg.it/)<br>Address: Via Goffredo Duranti, 93, 06125 Perugia PG |  https://ing.unipg.it/
 
 
