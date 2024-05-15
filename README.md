@@ -43,7 +43,7 @@ We do not assume liability for any unauthorized use of the dataset.
 
 **Contact Information:**
 
-For privacy-related concerns or data removal requests, please contact us at giuseppe.mollica1@studenti.unipg.it
+For privacy-related concerns or data removal requests, please contact us at giuseppe.mollica@dottorandi.unipg.it
 
 ## Citing:
 **If you use MA-VIED in an academic work, please cite:**
